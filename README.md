@@ -1,11 +1,10 @@
-================
 FileManager
 ================
 
 A comprehensive file chooser intensively designed for the for desktop platform
 The widget was originaly design and used for **kivy Studios **but is now available on kivy garden
 
-#### KivyStudio
+#### File Manager
 <!-- ![KivyStudio](https://raw.githubusercontent.com/MichaelStott/KivMob/master/demo/assets/kivmob-title.png) -->
 
 [![Build Status](https://travis-ci.com/MichaelStott/KivMob.svg?branch=master)](https://travis-ci.com/MichaelStott/KivMob)
@@ -31,6 +30,11 @@ garden install garden.filemanager
 ```
 
 
+### FileManager being used in Kivy Studio
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahart-studio/kivystudio/master/resources/showcase/Screenshot(3).png">
+</p>
+
 ### Quickstart
 
 
@@ -50,11 +54,6 @@ btn.bind(on_release=open_file)
 if __name__ == '__main__':
 	MyApp().run()
 ```
-
-### FileManager being used in Kivy Studio
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahart-studio/kivystudio/master/resources/showcase/Screenshot(3).png">
-</p>
 
 ### FileManager Showcase
 
